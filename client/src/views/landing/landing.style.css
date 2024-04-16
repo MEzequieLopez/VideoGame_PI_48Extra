@@ -1,0 +1,29 @@
+.landing-content {
+  height: 100vh;
+  /* display: flex; */
+}
+
+.landing {
+  background-image: url("https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot19-1920x1080-810b476ed14a4555fd683c9bce63979e.jpg?resize=1&w=1920");
+  height: 100%;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+}
+
+.content {
+  text-align: center;
+  color: white;
+}
+
+.content-image {
+  background-image: url("https://portaltech-xbox.my.canva.site/videos/8f7942a62693ae18770a90da78dd0f0c.gif");
+  display: flex;
+  background-position: center;
+  background-size: cover;
+  height: 70%;
+  align-items: center;
+}
